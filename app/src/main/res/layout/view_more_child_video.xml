@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="150dp"
+    android:layout_height="45dp"
+    android:background="#000000"
+    android:id="@+id/tv_text"
+    android:elevation="10dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:text="取消订阅"
+    android:textColor="@android:color/white">
+
+</TextView>

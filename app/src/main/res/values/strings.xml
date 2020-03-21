@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">media01</string>
+    <string name="start_record">开始录音</string>
+    <string name="stop_record">停止录音</string>
+    <string name="start_play">播放</string>
+    <string name="stop_play">停止</string>
+    <string name="audiorecord">使用AudioRecord录音</string>
+    <string name="audiotrack">使用AudioTrack播放音频</string>
+    <string name="camera_nv21">Camera采集NV21数据</string>
+    <string name="mediaextractor">MediaExtractor提取音视频文件</string>
+    <string name="open_gl">OPEN_GL_使用</string>
+</resources>

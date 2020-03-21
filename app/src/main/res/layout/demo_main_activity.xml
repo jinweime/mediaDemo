@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <Button
+        android:id="@+id/but_audio"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:text="@string/audiorecord" />
+
+    <Button
+        android:id="@+id/but_audio2"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/audiotrack" />
+
+    <Button
+        android:id="@+id/but_camera"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/camera_nv21" />
+
+    <Button
+        android:id="@+id/but_ext"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/mediaextractor" />
+
+    <Button
+        android:id="@+id/but_open_gl1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/open_gl" />
+
+</LinearLayout>
